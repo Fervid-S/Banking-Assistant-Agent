@@ -1,4 +1,4 @@
-# 🏦 Banking FAQ Assistant
+# Banking FAQ Assistant
 
 A production-grade Agentic AI Capstone project built with LangGraph, ChromaDB, and Streamlit. This Banking FAQ Assistant handles customer queries about account types, loans, interest rates, fund transfer charges, and more — powered by a retrieval-augmented generation (RAG) pipeline with faithfulness evaluation.
 
