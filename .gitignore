@@ -1,0 +1,12 @@
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Vector Store
+chroma_db/

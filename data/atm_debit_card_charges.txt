@@ -1,0 +1,51 @@
+ATM OPERATIONS AND DEBIT CARD — CHARGES, LIMITS, AND POLICIES
+
+ATM TRANSACTION LIMITS AND FREE USAGE POLICY
+
+Own Bank ATMs:
+All account holders are entitled to unlimited free cash withdrawals at the Bank's own ATMs, irrespective of account variant, branch location, or monthly frequency. Non-cash transactions (balance enquiry, mini statement, PIN change) at own ATMs are also free.
+
+Other Bank ATMs (Domestic):
+As per the Reserve Bank of India (RBI) circular, customers are entitled to a minimum of five free transactions per month at other banks' ATMs in metro cities (defined as the six metros: Mumbai, Delhi, Kolkata, Chennai, Bengaluru, and Hyderabad). In non-metro locations, the free transaction limit is five per month at other banks' ATMs.
+
+Once the free transaction limit is exhausted:
+  • Cash withdrawal: ₹21 per transaction (plus GST).
+  • Non-financial transactions (balance enquiry, mini statement): ₹8.50 per transaction (plus GST).
+
+Note: Premium Savings Account and Salary Account holders may have enhanced free ATM limits as detailed in their respective product disclosures.
+
+DAILY ATM WITHDRAWAL LIMITS BY CARD TYPE:
+  • RuPay Classic (Regular Savings): ₹25,000 per day.
+  • RuPay Platinum (Regular Savings — upgraded): ₹40,000 per day.
+  • Visa Classic (Current Account): ₹40,000 per day.
+  • Visa Platinum (Premium Savings): ₹1,00,000 per day.
+  • Visa Business Debit (Business Current): ₹2,00,000 per day (subject to account limits).
+
+POINT-OF-SALE (POS) LIMITS
+  • Standard debit cards: ₹1,00,000 per day.
+  • Platinum debit cards: ₹2,00,000 per day.
+  • Business debit cards: ₹5,00,000 per day.
+  • Contactless payments (tap-to-pay): ₹5,000 per transaction without PIN; above ₹5,000 requires PIN authentication.
+
+INTERNATIONAL USAGE
+  • Debit cards are by default disabled for international transactions. Customers must activate international usage via the Mobile Banking App, Net Banking, or by visiting a branch.
+  • Foreign currency ATM withdrawal: Charges as per the VISA/Mastercard/RuPay network's applicable conversion rate plus a markup fee of 3.50% on the converted INR value.
+  • International POS transactions: Same 3.50% markup.
+
+CARD BLOCKING AND REPLACEMENT
+  • Lost or stolen card: Block immediately via the 24×7 helpline (1800-XXX-XXXX), Mobile Banking App (Card Controls section), or SMS "BLOCK XXXX" (last four digits) to the Bank's registered SMS number.
+  • Replacement card: Issued within 7 working days for standard delivery; ₹200 charge. Emergency card issue at a designated branch: ₹500, available within 1 working day (metro branches only).
+
+DEBIT CARD PIN MANAGEMENT
+  • PIN can be set or reset via the Mobile Banking App, Net Banking, or any Bank ATM.
+  • After 3 consecutive incorrect PIN entries, the card is temporarily blocked. Unblocking is possible via Net Banking or the helpline.
+
+CONTACTLESS DEBIT CARD POLICY
+  • All new debit cards issued from January 2021 onwards are contactless-enabled.
+  • Older cards without a contactless chip can be replaced at no cost upon request.
+
+DEBIT CARD ANNUAL FEES
+  • RuPay Classic: ₹200 per annum (debited on card anniversary date).
+  • RuPay/Visa Platinum: ₹350 per annum.
+  • Visa Business Debit: ₹750 per annum.
+  • Annual fees are waived for the Salary Account and Senior Citizen Savings Account variants.

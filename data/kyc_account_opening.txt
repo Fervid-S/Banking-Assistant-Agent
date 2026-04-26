@@ -1,0 +1,46 @@
+KYC REQUIREMENTS AND ACCOUNT OPENING PROCEDURES
+
+INTRODUCTION
+Know Your Customer (KYC) compliance is a regulatory requirement mandated by the Reserve Bank of India under the Prevention of Money-Laundering Act (PMLA), 2002, and the RBI Master Direction on KYC, 2016 (as amended). All customers are required to complete KYC verification at account opening and at periodic intervals thereafter. Non-compliant accounts are subject to restrictions on operations.
+
+DOCUMENTS ACCEPTABLE AS PROOF OF IDENTITY (OVD — OFFICIALLY VALID DOCUMENTS)
+As per current RBI guidelines, the following documents are classified as Officially Valid Documents (OVDs) for identity proof:
+  1. Aadhaar Card (UIDAI-issued) — Preferred for e-KYC.
+  2. Passport.
+  3. Voter Identity Card (issued by the Election Commission of India).
+  4. Driving Licence.
+  5. Job Card issued under MGNREGS (signed by a State Government official).
+  6. Letter issued by the National Population Register.
+
+PAN CARD is mandatory for all accounts; customers unable to provide PAN must submit Form 60.
+
+PROOF OF ADDRESS
+Any of the above OVDs that carry the customer's current address is acceptable. If the OVD does not carry the address, the following are accepted as supplementary address proof:
+  • Utility bills (electricity, water, gas, landline telephone) not older than 2 months.
+  • Bank account statement from another scheduled commercial bank (not older than 3 months).
+  • Property/municipal tax receipt.
+  • Pension or family pension payment orders issued by Government.
+  • Letter from a recognised public authority.
+
+E-KYC (PAPERLESS ACCOUNT OPENING)
+  • Customers with a registered Aadhaar number and registered mobile number linked to Aadhaar may open accounts via the Bank's digital onboarding platform using OTP-based Aadhaar e-KYC.
+  • e-KYC accounts are initially subject to a maximum annual credit limit of ₹1,00,000 and a maximum balance of ₹1,00,000 until full KYC is completed within 12 months.
+  • Biometric-based e-KYC (using fingerprint or iris scan via the Bank's Business Correspondent network) allows full KYC completion without physical branch visit.
+
+PERIODIC KYC UPDATE
+  • High-risk customers: KYC update every 2 years.
+  • Medium-risk customers: KYC update every 8 years.
+  • Low-risk customers: KYC update every 10 years.
+Customers will be notified via registered mobile number and email 60 days before the KYC update due date. Failure to comply results in progressive restriction of account operations: first, debit freeze; subsequently, full freeze pending KYC completion.
+
+MINOR ACCOUNT OPENING
+  • For minors below 10 years: Account opened in the name of the minor, operated by parent/natural guardian. Guardian's KYC documents and the minor's birth certificate are required.
+  • For minors aged 10–18 (Pehli Udaan): Minor's own KYC documents (school ID + Aadhaar) are accepted. Account is upgraded to a standard adult account when the minor attains majority (18 years).
+
+NRI ACCOUNT OPENING
+NRIs may open the following account types:
+  • NRE (Non-Resident External): Maintains rupee funds from foreign earnings. Principal and interest are fully repatriable. Interest is exempt from Indian income tax.
+  • NRO (Non-Resident Ordinary): Maintains income earned in India (rent, dividends). Repatriation limited to USD 1 million per financial year. Interest is taxable in India.
+  • FCNR(B) (Foreign Currency Non-Resident — Banks): Term deposit in foreign currency. Available in USD, GBP, EUR, CAD, AUD, SGD, and JPY. Free from exchange risk for the depositor.
+
+Additional documents for NRI accounts: Passport, valid visa/OCI/PIO card, proof of NRI status (employment/visa documentation), and an overseas address proof.

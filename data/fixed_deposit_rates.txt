@@ -1,0 +1,50 @@
+FIXED DEPOSIT SCHEMES — INTEREST RATES AND OPERATING CONDITIONS
+
+PRODUCT OVERVIEW
+A Fixed Deposit (FD) is a term deposit product under which a customer deposits a lump-sum amount for a specified tenure and earns interest at a pre-agreed rate. The Bank offers fixed deposits to resident individuals, Hindu Undivided Families (HUFs), companies, firms, trusts, and NRIs (under NRE/NRO schemes). FDs are not linked to market fluctuations; the contracted rate is guaranteed for the full tenure.
+
+APPLICABLE INTEREST RATES (RESIDENT DOMESTIC)
+Rates are per annum on a compounding basis, effective as of the last revision by the ALCO Committee:
+
+  • 7 days to 14 days            : 3.50%
+  • 15 days to 29 days           : 4.00%
+  • 30 days to 45 days           : 4.25%
+  • 46 days to 60 days           : 4.50%
+  • 61 days to 90 days           : 4.75%
+  • 91 days to 180 days          : 5.50%
+  • 181 days to less than 1 year : 6.00%
+  • 1 year to less than 2 years  : 6.75%
+  • 2 years to less than 3 years : 7.00%
+  • 3 years to 5 years           : 7.10%
+  • Above 5 years up to 10 years : 6.90%
+
+Senior citizens (aged 60 and above) receive an additional 0.50% per annum on all domestic FD tenures.
+
+TAX SAVER FIXED DEPOSIT
+  • Tenure: Exactly 5 years (no premature withdrawal allowed).
+  • Maximum deposit per financial year: ₹1,50,000.
+  • Tax benefit under Section 80C of the Income Tax Act, 1961.
+  • Interest is taxable; TDS is applicable if interest exceeds ₹40,000 per annum (₹50,000 for senior citizens) across all deposits in the Bank.
+  • Joint accounts are permitted; only the first holder is eligible for the 80C deduction.
+
+MINIMUM AND MAXIMUM DEPOSIT
+  • Minimum deposit amount: ₹1,000.
+  • Maximum deposit amount: No upper limit (subject to KYC compliance).
+
+PREMATURE WITHDRAWAL
+  • Permitted on all FDs except Tax Saver deposits.
+  • Penalty for premature closure: 1% per annum reduction on the applicable contracted rate for the period the deposit has remained with the Bank.
+  • No interest is paid on deposits withdrawn within 7 days of booking.
+
+LOAN AGAINST FIXED DEPOSIT
+  • The Bank extends overdraft/loan against FD up to 90% of the deposit principal.
+  • Interest on OD/loan: FD rate + 2% per annum (reducing balance).
+  • The FD is held as a lien for the loan duration and is not eligible for premature closure while the lien subsists.
+
+AUTO-RENEWAL
+  • Unless specific instructions are provided, FDs maturing without customer instructions are automatically renewed for the same tenure at the interest rate prevailing on the date of renewal.
+  • Maturity proceeds can alternatively be credited to a linked savings/current account.
+
+TDS PROVISIONS
+  • TDS at 10% is deducted when total interest income from FDs across all branches exceeds ₹40,000 per annum (₹50,000 for senior citizens).
+  • Customers not liable to pay tax may submit Form 15G (individuals below 60 years) or Form 15H (senior citizens) to avoid TDS deduction.

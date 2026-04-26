@@ -1,0 +1,61 @@
+FUND TRANSFER SERVICES — RTGS, NEFT, AND IMPS: CHARGES AND OPERATING GUIDELINES
+
+NATIONAL ELECTRONIC FUNDS TRANSFER (NEFT)
+
+Operating Hours:
+NEFT is available 24 hours a day, 7 days a week, 365 days a year. Settlements are processed in half-hourly batches. The first batch commences at 00:30 hours; the last batch of the day settles at 00:00 hours (midnight). On non-business days, transactions are queued and processed in the next available batch.
+
+Transaction Limits:
+  • Minimum: ₹1 (no minimum restriction).
+  • Maximum: No upper limit prescribed by the RBI; however, the Bank imposes a per-transaction cap of ₹10,00,000 via internet banking and ₹5,00,000 via mobile banking for security purposes.
+
+Charges:
+As per the Reserve Bank of India directive effective January 1, 2020, banks are prohibited from charging customers for NEFT transactions initiated online (internet or mobile banking). NEFT transactions initiated at branches attract the following charges:
+  • Up to ₹10,000: ₹2 per transaction.
+  • ₹10,001 to ₹1,00,000: ₹4 per transaction.
+  • ₹1,00,001 to ₹2,00,000: ₹12 per transaction.
+  • Above ₹2,00,000: ₹20 per transaction.
+GST is levied on all applicable charges at the prevailing rate.
+
+REAL TIME GROSS SETTLEMENT (RTGS)
+
+Operating Hours:
+RTGS is available on all working days from 07:00 hours to 18:00 hours. RTGS is not operational on bank holidays, second and fourth Saturdays, and Sundays.
+
+Transaction Limits:
+  • Minimum: ₹2,00,000.
+  • Maximum: No upper limit. High-value transactions above ₹50,00,000 may be subject to additional verification by the Bank.
+
+Charges:
+Per RBI directive, banks cannot charge for RTGS transactions initiated online. For branch-initiated RTGS:
+  • ₹2,00,000 to ₹5,00,000: ₹25 per transaction.
+  • Above ₹5,00,000: ₹50 per transaction.
+GST applicable.
+
+IMMEDIATE PAYMENT SERVICE (IMPS)
+
+Operating Hours:
+IMPS is available 24×7×365, including public holidays.
+
+Transaction Limits:
+  • Minimum: ₹1.
+  • Maximum: ₹5,00,000 per transaction (as per NPCI guidelines). This limit applies across all channels.
+
+Charges (applicable on all channels, including online):
+  • Up to ₹1,000: ₹3.50 per transaction.
+  • ₹1,001 to ₹25,000: ₹5 per transaction.
+  • ₹25,001 to ₹1,00,000: ₹10 per transaction.
+  • ₹1,00,001 to ₹5,00,000: ₹15 per transaction.
+GST applicable.
+
+UNIFIED PAYMENTS INTERFACE (UPI)
+
+UPI transactions are processed via the Bank's mobile banking app and third-party UPI apps. No charges are levied on peer-to-peer (P2P) or peer-to-merchant (P2M) UPI transactions as per NPCI regulations.
+
+  • Per transaction limit: ₹1,00,000 (standard). UPI for IPO, tax payments, and certain RBI-designated categories: ₹5,00,000.
+
+GENERAL CONDITIONS
+  • The Bank is not liable for delays caused by incorrect beneficiary account details provided by the remitter.
+  • Returned NEFT/RTGS transactions are credited back to the remitter's account within 2 hours of the return advice.
+  • IMPS returns are typically processed within 1 business day.
+  • Customers should quote the UTR (Unique Transaction Reference) number for all fund transfer queries.

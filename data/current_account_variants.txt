@@ -1,0 +1,24 @@
+CURRENT ACCOUNT VARIANTS — PRODUCT DISCLOSURE DOCUMENT
+
+Current Accounts are non-interest-bearing transactional accounts intended for business entities, self-employed professionals, and traders who require high-frequency banking operations. The Bank does not pay interest on credit balances held in Current Accounts.
+
+BASIC CURRENT ACCOUNT
+Minimum quarterly average balance (QAB): ₹10,000. Suitable for small businesses, sole proprietorships, and startups. Includes a free MICR cheque book of 50 leaves per quarter. Cash deposit limit at the base branch: ₹3,00,000 per month free of charge; excess cash deposits are charged at ₹2 per ₹1,000 (minimum ₹50). Non-maintenance charge: ₹500 per quarter. Overdraft facility not included by default; may be applied for separately.
+
+BUSINESS CURRENT ACCOUNT
+Minimum QAB: ₹50,000. Intended for medium-scale enterprises and partnership firms. Free cash deposit limit is ₹10,00,000 per month. Includes unlimited NEFT/RTGS transactions initiated through the Bank's Net Banking portal. A dedicated business relationship manager is assigned to accounts maintaining a QAB above ₹2,00,000. Non-maintenance charge: ₹1,500 per quarter.
+
+PREMIUM BUSINESS CURRENT ACCOUNT
+Minimum QAB: ₹2,00,000. Designed for high-turnover businesses, corporate entities, and large partnerships. Free cash deposit: unlimited at base branch. Includes a payable-at-par (PAP) cheque book of 200 leaves per month, free demand drafts, and multi-city banking. A sweep-in facility can be configured so that surplus funds above a defined threshold are automatically transferred to an FD, earning term deposit interest rates. Non-maintenance charge: ₹3,000 per quarter.
+
+TRADE CURRENT ACCOUNT
+Specifically designed for exporters and importers. Minimum QAB: ₹1,00,000. Provides access to export bill negotiation, letter of credit (LC) issuance, and foreign currency demand drafts. Charges for trade finance instruments are reduced by 25% compared to standard schedule-of-charges rates. Forex advisory services are available from the Bank's treasury desk on request.
+
+STAFF CURRENT ACCOUNT
+Available exclusively to confirmed employees of the Bank. No minimum balance requirement. Includes five free RTGS and ten free NEFT transactions per month.
+
+OVERDRAFT AGAINST CURRENT ACCOUNT
+Eligible Current Account holders may apply for a sanctioned overdraft facility. The overdraft limit is assessed based on the average quarterly credit turnover, typically up to 50% of the average monthly turnover subject to a maximum of ₹25,00,000. Interest on the utilised overdraft is charged at the Bank's prevailing base rate plus a spread (currently Base Rate + 3.50% per annum), applied on a daily product basis.
+
+IMPORTANT OPERATING CONDITIONS
+Accounts that remain inoperative (no debit or credit transactions, excluding bank-initiated charges) for 24 consecutive months are classified as dormant. Reactivation requires a written request submitted at the home branch along with valid KYC documents.
