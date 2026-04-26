@@ -1,4 +1,4 @@
-# Banking FAQ Assistant
+# 🏦 Banking FAQ Assistant
 
 A production-grade Agentic AI Capstone project built with LangGraph, ChromaDB, and Streamlit. This Banking FAQ Assistant handles customer queries about account types, loans, interest rates, fund transfer charges, and more — powered by a retrieval-augmented generation (RAG) pipeline with faithfulness evaluation.
 
@@ -134,6 +134,8 @@ The app will open in your browser at `http://localhost:8501`.
 
 The LangGraph `StateGraph` routes every query through exactly **8 nodes**:
 
+![LangGraph Flow Diagram](langgraph_flow.png)
+
 ```
 memory_node → router_node → retrieval_node → answer_node → eval_node → save_node
                           ↘ tool_node ↗
@@ -191,4 +193,3 @@ Results are saved to `tests/ragas_results.json` after each run.
 ## License
 
 This project is developed for educational purposes as part of a **Senior AI Engineering Capstone**. Not intended for production banking use.
-
