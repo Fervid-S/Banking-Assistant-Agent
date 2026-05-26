@@ -2,7 +2,7 @@ import streamlit as st
 import uuid
 import os
 from agent import BankingAssistant
-from langchain_core.messages import HumanMessage
+from langchain_core.messages import HumanMessage, AIMessage
 
 if "thread_id" not in st.session_state:
     st.session_state.thread_id = str(uuid.uuid4())
@@ -51,45 +51,47 @@ st.title("SecureBank FAQ Assistant")
 for chat in st.session_state.chat_history:
     with st.chat_message(chat["role"]):
         st.markdown(chat["content"])
+        if chat["role"] == "assistant" and "metadata" in chat:
+            meta = chat["metadata"]
+            st.caption(f"Faithfulness: {meta['score']} | Sources: {meta['sources']}")
 
 # LOGIC: Process NEW input only
-if prompt := st.chat_input("Ask abou loans, accounts, cards...."):
+if prompt := st.chat_input("Ask about loans, accounts, cards...."):
     # 1. Add user message to UI immediately
     st.session_state.chat_history.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # 2. RUN GRAPH (Pass only the current human message)
+    # 2. Reconstruct proper LangGraph Message state history mapping
+    formatted_messages = []
+    for msg in st.session_state.chat_history[:-1]:
+        if msg["role"] == "user":
+            formatted_messages.append(HumanMessage(content=msg["content"]))
+        else:
+            formatted_messages.append(AIMessage(content=msg["content"]))
+    
+    # Append the newest current prompt
+    formatted_messages.append(HumanMessage(content=prompt))
+
     config = {"configurable": {"thread_id": st.session_state.thread_id}}
     
-    # Use a spinner so the user knows it's thinking
     with st.spinner("Consulting Knowledge Base..."):
         result = graph.invoke(
-            {"messages": [HumanMessage(content=prompt)]}, 
+            {"messages": formatted_messages}, 
             config=config
         )
     
-    # 3. EXTRACT: Only grab the very last message from the graph
-    # This prevents the 'double answer' if the graph retried internally
+    # 3. Extract final elements cleanly
     final_msg = result["messages"][-1].content
-    
-    # 4. APPEND & DISPLAY ASSISTANT
-    with st.chat_message("assistant"):
-        st.markdown(final_msg)
-        st.caption(f"Sources: {', '.join(result.get('source_documents', ['N/A']))}")
-    
-    st.session_state.chat_history.append({"role": "assistant", "content": final_msg})
-    
-    # 5. FORCE STOP: Prevents Streamlit from looping back and rerunning logic
-    st.rerun()
-
-    response = result["messages"][-1].content
-    score = result.get("faithfulness_score", 0.0)
+    score = result.get("faithfulness_score", 1.0)
     topics = ", ".join(result.get("source_documents", ["N/A"]))
-
-    with st.chat_message("assistant"):
-        st.markdown(response)
-        st.divider()
-        st.caption(f"Faithfulness: {score} | Sources: {topics}")
     
-    st.session_state.chat_history.append({"role": "assistant", "content": response})
+    # 4. Append final dictionary with metadata to history
+    st.session_state.chat_history.append({
+        "role": "assistant", 
+        "content": final_msg,
+        "metadata": {"score": score, "sources": topics}
+    })
+    
+    # 5. Force UI refresh cleanly
+    st.rerun()
